@@ -24,6 +24,7 @@ export default function RootLayout({ children }) {
                     <a href="https://rawg.io/"
                         className="text-orange-800 hover:underline"
                         target="_blank">RAWG</a>
+                    {' '} | Deployed on vercel
                 </footer>
             </body>
         </html>
